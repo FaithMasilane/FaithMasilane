@@ -1,12 +1,11 @@
 <h1>Hi 👋, I'm Xalamukani Faith Masilane</h1>
 <h3>A passionate Software developer and a Data Analytics from South Africa</h3>
  <h5>With a National Diploma in Information Technology, specializing in Software Development, I possess a comprehensive 
-foundation in programming languages such as Java, PHP, HTML, CSS, C# ,  SQL, MYSQL and KOTIN. My academic journey, 
-I gained a solid understanding of computer systems, data structures, and software engineering/ development principles.   
-I am further developing my skills as a Data Analyst intern, where I am expanding my expertise in data analysis, 
+foundation in programming languages such as Java, PHP, HTML, CSS, C# ,  SQL, MYSQL and KOTIN.I am further developing my skills as a Data Analyst intern, where I am expanding my expertise in data analysis, 
 visualization, and interpretation. Notably, I have been learning and applying new programming languages, including 
 Python and R, to extract insights from complex datasets. This internship has provided me with hands-on experience in 
 working with diverse datasets, creating informative dashboards, and effectively communicating insights to stakeholders.</h5>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faithmasilane&label=Profile%20views&color=0e75b6&style=flat" alt="faithmasilane" /> </p>
@@ -17,11 +16,11 @@ working with diverse datasets, creating informative dashboards, and effectively 
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaithMasilane](https://github.com/FaithMasilane)
 
-- 📫 How to reach me **faithmasilane235@gmail.com**
+- 📫 How to reach me faithmasilane235@gmail.com
 
-- ⚡ Fun fact **📚 I love reading about tech and personal development.
+- ⚡ Fun fact 📚 I love reading about tech and personal development.
 -  🎮 I’m an avid gamer in my free time.
--  🏞️ I enjoy hiking and exploring nature.**
+-  🏞️ I enjoy hiking and exploring nature.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
